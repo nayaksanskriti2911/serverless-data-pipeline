@@ -37,7 +37,7 @@ as infrastructure-as-code with AWS CDK (Python).
 | Rows written to curated | 147,016|
 | Rows rejected | 4,484|
 | Rejection rate | 2.96 % |
-| Lambda duration | Run time (local) |
+| Run time (local) | 0.6 s |
 
 Screenshots: synthetic data, local run
 
